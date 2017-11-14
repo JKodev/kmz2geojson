@@ -1,0 +1,17 @@
+{
+  "name": "kmz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kmz-geojson": "^0.1.0",
+    "unzip": "^0.1.11",
+    "unzip2": "^0.2.5"
+  }
+}
